@@ -1,0 +1,3 @@
+be967fb32fe31f80bdc4c5e8c11690a3c6979fe16bdfb50c56bca00ba5159919  Artzi-0.1.3-mac-apple-silicon.dmg
+210828310d0251921397abb77f1aac810fabea0245f738acb38c0181b42ed18f  Artzi-0.1.3-mac-intel.dmg
+1f0a334732b32b9ca2ad42d8dcad645c9f75b645c8db6ff6a16fd970c1d0b3a1  Artzi-0.1.3-windows-x64-setup.exe

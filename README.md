@@ -2,17 +2,17 @@
 
 Installers for [Artzi](https://artzi.app), the personal AI assistant that runs on your computer.
 
-## 0.1.2
+## 0.1.3
 
 | Platform | File |
 |---|---|
-| macOS, Apple Silicon (M1 and later) | [Artzi-0.1.2-mac-apple-silicon.dmg](v0.1.2/Artzi-0.1.2-mac-apple-silicon.dmg) |
-| macOS, Intel | [Artzi-0.1.2-mac-intel.dmg](v0.1.2/Artzi-0.1.2-mac-intel.dmg) |
-| Windows 10 and 11, 64-bit | [Artzi-0.1.2-windows-x64-setup.exe](v0.1.2/Artzi-0.1.2-windows-x64-setup.exe) |
+| macOS, Apple Silicon (M1 and later) | [Artzi-0.1.3-mac-apple-silicon.dmg](v0.1.3/Artzi-0.1.3-mac-apple-silicon.dmg) |
+| macOS, Intel | [Artzi-0.1.3-mac-intel.dmg](v0.1.3/Artzi-0.1.3-mac-intel.dmg) |
+| Windows 10 and 11, 64-bit | [Artzi-0.1.3-windows-x64-setup.exe](v0.1.3/Artzi-0.1.3-windows-x64-setup.exe) |
 
-Checksums are in [v0.1.2/SHA256SUMS.txt](v0.1.2/SHA256SUMS.txt).
+Checksums are in [v0.1.3/SHA256SUMS.txt](v0.1.3/SHA256SUMS.txt).
 
-Older builds are kept in their version folders, for example [v0.1.1](v0.1.1).
+Older builds are kept in their version folders, for example [v0.1.2](v0.1.2).
 
 ## These builds are not signed yet
 
